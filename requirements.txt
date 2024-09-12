@@ -1,3 +1,6 @@
 streamlit
 ezdxf
 matplotlib
+plotly
+numpy
+numpy-stl
